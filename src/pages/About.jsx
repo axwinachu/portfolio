@@ -75,13 +75,10 @@ const About = () => {
           </div>
           <div className="mt-8 pt-6 border-t border-white/5 flex gap-6 text-xs text-white/40">
             <div>
-              <span className="text-white font-bold block text-lg">2+</span>
+              <span className="text-white font-bold block text-lg">1+</span>
               Years Coding Experience
             </div>
-            <div>
-              <span className="text-white font-bold block text-lg">15+</span>
-              Projects Delivered
-            </div>
+        
             <div>
               <span className="text-white font-bold block text-lg">100%</span>
               Execution Consistency
